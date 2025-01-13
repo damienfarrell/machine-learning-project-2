@@ -3,13 +3,13 @@
 ---
 
 ## **Objective**
-The aim of this project is to analyse a recorded dataset to investigate the feasibility of discriminating between different seal calls. The project is structured in steps to build a machine learning model that can potentially detect seal calls from audio recordings. While creating a fully functional detector is the ultimate goal, it may not be the final outcome of this project. This is Part A: Data Pre-processing.
+The aim of this project is to analyse a recorded dataset to investigate the feasibility of discriminating between different seal calls. The project is structured in steps to build a machine learning model that can potentially detect seal calls from audio recordings. While creating a fully functional detector is the ultimate goal, it may not be the final outcome of this project.
 
 ---
 
 **Part A - (`A. data_preprocessing.ipynb`)**: Data pre-processing, including extraction and cleaning of spectrograms, and generation of “no-call” data.
 
-**Part B - (`B. model_selection.ipynb`)**: Model selection and training.
+**Part B - (`B. model_selection.ipynb`)**: Model selection.
 
 **Part C - (`C. model_refine.ipynb`)**: Refinement and optimisation of the chosen model.
 
