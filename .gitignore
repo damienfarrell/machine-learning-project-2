@@ -173,3 +173,4 @@ Spectrogram.ipynb
 noisy_student_efficientnet_b4.h5
 *.h5
 best_model_EN.keras
+*.pkl
